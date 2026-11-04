@@ -4,7 +4,7 @@ Author: Reena Kamra
 Role: Software Engineering Lead — Enterprise Software Engineering  
 Domain: Solar Technology / Engineering Workflow Automation  
 
-Publication note: This case study presents a conceptual reference architecture based on general engineering patterns. It is not a description of any employer's confidential implementation. The AI reviewer is presented as a proposed architecture, not a completed or validated production capability.
+Publication note: This case study presents a conceptual reference architecture based on general engineering patterns. It is not a description of any employer's confidential implementation. The AI reviewer is presented as a proposed architecture, not a completed or validated production capability.  
 ________________________________________
 ## 1. Executive Summary
 Solar engineering projects involve complex coordination between project managers, designers, engineering reviewers, and operations teams. One important component of this process is the management and review of solar plansets—collections of technical drawings and supporting documents used throughout project design, approval, and execution.
