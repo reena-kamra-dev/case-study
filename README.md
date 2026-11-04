@@ -102,7 +102,7 @@ An AI review service combines document extraction, rule-based checks, relevant k
 #### Persistence Layer
 A relational database stores transactional information, object storage maintains document versions, and optional vector search supports retrieval.
 
-## Architectural data flow:
+#### Architectural data flow:
 
 1.	A user uploads a planset through the CRM interface.
 2.	The API validates the request and records document metadata.
